@@ -9,7 +9,7 @@ export default function User( { user }) {
     
     if (router.isFallback) {
         return(
-            <div>CARGANDO ...</div>
+            <div>CARGANDO ..</div>
         )
     }
 
